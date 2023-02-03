@@ -1,0 +1,15 @@
+C:\Users\4814285\Desktop\c#\Seminars\Homework1\tassk4\bin\Debug\net6.0\tassk4.exe
+C:\Users\4814285\Desktop\c#\Seminars\Homework1\tassk4\bin\Debug\net6.0\tassk4.deps.json
+C:\Users\4814285\Desktop\c#\Seminars\Homework1\tassk4\bin\Debug\net6.0\tassk4.runtimeconfig.json
+C:\Users\4814285\Desktop\c#\Seminars\Homework1\tassk4\bin\Debug\net6.0\tassk4.dll
+C:\Users\4814285\Desktop\c#\Seminars\Homework1\tassk4\bin\Debug\net6.0\tassk4.pdb
+C:\Users\4814285\Desktop\c#\Seminars\Homework1\tassk4\obj\Debug\net6.0\tassk4.csproj.AssemblyReference.cache
+C:\Users\4814285\Desktop\c#\Seminars\Homework1\tassk4\obj\Debug\net6.0\tassk4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4814285\Desktop\c#\Seminars\Homework1\tassk4\obj\Debug\net6.0\tassk4.AssemblyInfoInputs.cache
+C:\Users\4814285\Desktop\c#\Seminars\Homework1\tassk4\obj\Debug\net6.0\tassk4.AssemblyInfo.cs
+C:\Users\4814285\Desktop\c#\Seminars\Homework1\tassk4\obj\Debug\net6.0\tassk4.csproj.CoreCompileInputs.cache
+C:\Users\4814285\Desktop\c#\Seminars\Homework1\tassk4\obj\Debug\net6.0\tassk4.dll
+C:\Users\4814285\Desktop\c#\Seminars\Homework1\tassk4\obj\Debug\net6.0\refint\tassk4.dll
+C:\Users\4814285\Desktop\c#\Seminars\Homework1\tassk4\obj\Debug\net6.0\tassk4.pdb
+C:\Users\4814285\Desktop\c#\Seminars\Homework1\tassk4\obj\Debug\net6.0\tassk4.genruntimeconfig.cache
+C:\Users\4814285\Desktop\c#\Seminars\Homework1\tassk4\obj\Debug\net6.0\ref\tassk4.dll
